@@ -1,0 +1,1 @@
+# Latihan CodeWars JavaScript
